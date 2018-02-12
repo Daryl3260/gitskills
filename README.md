@@ -10,3 +10,4 @@ git checkout master//return to master
 git merge dev//merge
 get branch -d dev//delete dev
 git push origin master//push to github
+dev branch modification
