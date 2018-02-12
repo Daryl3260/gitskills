@@ -11,3 +11,5 @@ git merge dev//merge
 get branch -d dev//delete dev
 git push origin master//push to github
 master branch modification
+dev branch modification
+remove conflicts and merge
